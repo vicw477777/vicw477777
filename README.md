@@ -126,12 +126,6 @@ read the model -> build the experiment -> inspect failures -> explain the result
 
 I am strongest in work that needs both mathematical understanding and implementation discipline: reading papers or specifications, building experiments, debugging models, and communicating results clearly.
 
-## Current Direction
-
-- Turn coursework repositories into clearer engineering portfolios with runnable scripts and concise project READMEs
-- Build stronger ML experiment writeups: problem, method, results, limitations, and next steps
-- Expand robotics and reinforcement learning work into more complete demos
-
 ## Contact
 
 <p align="center">
