@@ -77,12 +77,6 @@ I am especially interested in:
 
 I am strongest when a role needs both mathematical understanding and implementation discipline: reading papers or specifications, building experiments, debugging models, and communicating results clearly.
 
-## Current Focus
-
-- Improving public project READMEs so recruiters can quickly understand problem, method, results, and code structure
-- Building clearer ML experiment portfolios with runnable training/evaluation scripts
-- Expanding robotics and reinforcement learning projects into more complete engineering demos
-
 ## Contact
 
 - GitHub: [@vicw477777](https://github.com/vicw477777)
