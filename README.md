@@ -1,6 +1,6 @@
-# Hi, I'm Vic
+# Hi, I'm Yichen Wei
 
-I work on machine learning, computer vision, probabilistic modelling, and robotics. My projects are mostly built around applied ML coursework and research-style implementations, with an emphasis on turning mathematical models into reproducible experiments and readable reports.
+I work on machine learning, computer vision, and robotics. My projects are mostly built around applied ML coursework and research-style implementations, with an emphasis on turning mathematical models into reproducible experiments and readable reports.
 
 I am looking for roles where I can contribute to ML engineering, computer vision, robotics, or AI research engineering.
 
@@ -86,7 +86,8 @@ I am strongest when a role needs both mathematical understanding and implementat
 ## Contact
 
 - GitHub: [@vicw477777](https://github.com/vicw477777)
-- LinkedIn / email / portfolio: add your preferred contact links here
+- LinkedIn: linkedin.com/in/yichen-wei-vicky
+- Email: vicky_wei_yichen@outlook.com
 
 ---
 
