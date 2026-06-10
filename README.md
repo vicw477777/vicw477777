@@ -1,143 +1,50 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="Yichen Wei profile banner" width="100%" />
-</p>
+<!-- ⚠️ 这是你的 GitHub 主页 README，上传到 vicw477777/vicw477777 仓库即可生效。
+     带 [方括号] 的内容需要替换成你的真实信息。 -->
 
-<div align="center">
+# Hi there, I'm Vicky 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-vicw477777-181717?style=for-the-badge&logo=github)](https://github.com/vicw477777)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yichen%20Wei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yichen-wei-vicky)
-[![Email](https://img.shields.io/badge/Email-vicky__wei__yichen%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicky_wei_yichen@outlook.com)
+**Machine Learning & Computer Vision Engineer** · Python enthusiast · Open to opportunities
 
-**Open to ML engineering, computer vision, robotics, and AI research engineering roles.**
-
-</div>
+🌐 Portfolio: [vicw477777.github.io](https://vicw477777.github.io) &nbsp;·&nbsp; 📫 [vicky.yichen.w@gmail.com](mailto:vicky.yichen.w@gmail.com) <!-- ⚠️ 如有 LinkedIn 可加在这里 -->
 
 ---
 
-## Snapshot
+### 🔭 About me
 
-I work across **machine learning, computer vision, probabilistic modelling, speech recognition, and robotics**. I like projects where the core challenge is translating mathematical ideas into reproducible experiments, reliable evaluation, and clear technical communication.
+- 🎓 [Your degree, e.g. M.S. in Computer Science @ Your University]
+- 👁️ I work on **computer vision** — object detection, segmentation, and image understanding
+- 🧠 Currently learning: [e.g. multimodal models / diffusion / model deployment]
+- 💼 **Looking for ML / CV engineer & algorithm research roles**
 
-<table>
-<tr>
-<td width="33%">
+### 🛠️ Tech stack
 
-### ML Systems
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-Deep learning workflows, model evaluation, representation learning, generative modelling, and CTC-based speech recognition.
+### 🚀 Featured projects
 
-</td>
-<td width="33%">
+<!-- ⚠️ 替换成你真实的 3-4 个置顶项目（和你 Pinned repos 保持一致） -->
 
-### Perception
+| Project | Description | Tech |
+|---|---|---|
+| [**[repo-name-1]**](https://github.com/vicw477777/repo-name-1) | [One-line description with a concrete result, e.g. "Real-time object detection, XX mAP @ XX FPS"] | PyTorch · YOLO |
+| [**[repo-name-2]**](https://github.com/vicw477777/repo-name-2) | [One-line description] | PyTorch · OpenCV |
+| [**[repo-name-3]**](https://github.com/vicw477777/repo-name-3) | [One-line description] | Python · FastAPI |
 
-3D computer vision, camera geometry, visual reasoning, and experiment-driven analysis of perception pipelines.
+### 📊 GitHub stats
 
-</td>
-<td width="33%">
-
-### Robotics
-
-Robot dynamics, control, reinforcement learning foundations, and human-robot interaction concepts.
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Probabilistic%20ML-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Robotics-059669?style=flat-square" />
-  <img src="https://img.shields.io/badge/Speech%20Recognition-DC2626?style=flat-square" />
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vicw477777&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicw477777&layout=compact&hide_border=true" alt="Top languages"/>
 </p>
 
-## Project Portfolio
+---
 
-<table>
-<tr>
-<td width="50%">
-
-### [TIMIT Speech Recognition Using CTC](https://github.com/vicw477777/TIMIT-Speech-Recognition-Using-CTC)
-
-Sequence modelling project for speech recognition with CTC-style acoustic modelling.
-
-**Focus:** CTC training, sequence learning, speech evaluation.
-
-</td>
-<td width="50%">
-
-### [3D Vision](https://github.com/vicw477777/computer_vision_3Dvision)
-
-Computer vision project focused on 3D perception and geometric reasoning.
-
-**Focus:** camera geometry, 3D reasoning, visual analysis.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [Representation Learning and Generative Models](https://github.com/vicw477777/Representation-Learning-and-Generative-Models)
-
-Deep learning project exploring latent representations and generative modelling.
-
-**Focus:** representation learning, generative models, experiment comparison.
-
-</td>
-<td width="50%">
-
-### [Gaussian Processes](https://github.com/vicw477777/ProbabilisticML_Gaussian-Processes)
-
-Probabilistic ML project covering Gaussian processes and uncertainty-aware prediction.
-
-**Focus:** kernels, Bayesian modelling, uncertainty.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [Probabilistic Ranking](https://github.com/vicw477777/ProbabilisticML_Probabilistic-Ranking)
-
-Probabilistic modelling project focused on ranking and preference-style inference.
-
-**Focus:** ranking models, probabilistic inference, interpretation.
-
-</td>
-<td width="50%">
-
-### [Robot Dynamics and Control](https://github.com/vicw477777/Robotics_Fundamentals-of-robot-dynamics-and-control)
-
-Robotics fundamentals project covering dynamics and control reasoning.
-
-**Focus:** kinematics, dynamics, control, robotics foundations.
-
-</td>
-</tr>
-</table>
-
-## Working Style
-
-```text
-read the model -> build the experiment -> inspect failures -> explain the result
-```
-
-I am strongest in work that needs both mathematical understanding and implementation discipline: reading papers or specifications, building experiments, debugging models, and communicating results clearly.
-
-## Contact
-
-<p align="center">
-  <a href="https://github.com/vicw477777">GitHub</a>
-  &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/yichen-wei-vicky">LinkedIn</a>
-  &nbsp;|&nbsp;
-  <a href="mailto:vicky_wei_yichen@outlook.com">Email</a>
-</p>
-
-<div align="center">
-
-For recruiters: the best starting points are the speech recognition, 3D vision, probabilistic ML, and robotics projects above.
-
-</div>
+<p align="center"><i>Thanks for stopping by — feel free to reach out!</i> ✨</p>
